@@ -1,0 +1,36 @@
+Guest number 12 wants to check in double room in reception 2 
+We have checked in the guest number 12 in the double room number 1 in reception 2
+Guest number 13 wants to check in single room in reception 2 
+Guest number 13 check in single room number 1 in reception 2 
+Guest number 14 wants to check in double room in reception 2 
+We have checked in the guest number 14 in the double room number 2 in reception 2
+Guest number 15 wants to check in single room in reception 2 
+Guest number 15 check in single room number 2 in reception 2 
+Guest number 16 wants to check in double room in reception 2 
+We have checked in the guest number 16 in the double room number 2 in reception 2
+Guest number 17 wants to check in single room in reception 2 
+Guest number 17 check in single room number 3 in reception 2 
+Guest number 18 wants to check in double room in reception 2 
+We have checked in the guest number 18 in the double room number 1 in reception 2
+Guest number 19 wants to check in single room in reception 2 
+Guest number 19 check in single room number 4 in reception 2 
+Guest number 1 wants to check in single room in reception 1 
+Guest number 1 check in single room number 5 in reception 1 
+Guest number 2 wants to check in double room in reception 1 
+We have checked in the guest number 2 in the double room number 3 in reception 1
+Guest number 3 wants to check in single room in reception 1 
+Guest number 3 check in single room number 6 in reception 1 
+Guest number 4 wants to check in double room in reception 1 
+We have checked in the guest number 4 in the double room number 3 in reception 1
+Guest number 5 wants to check in single room in reception 1 
+Guest number 5 check in single room number 7 in reception 1 
+Guest number 6 wants to check in double room in reception 1 
+We have checked in the guest number 6 in the double room number 4 in reception 1
+Guest number 7 wants to check in single room in reception 1 
+Guest number 7 check in single room number 8 in reception 1 
+Guest number 8 wants to check in double room in reception 1 
+We have checked in the guest number 8 in the double room number 5 in reception 1
+Guest number 9 wants to check in single room in reception 1 
+Guest number 9 check in single room number 9 in reception 1 
+Guest number 10 wants to check in double room in reception 1 
+We have checked in the guest number 10 in the double room number 4 in reception 1
